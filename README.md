@@ -13,7 +13,7 @@ Quando a luminosidade estiver em nível de alerta, ativa uma buzina (buzzer) por
 ![App Screenshot](https://csg.tinkercad.com/things/bjqHOWaMdiu/t725.png?rev=1712067353352000000&s=&v=1&type=circuits)
 
 - Projeto - [Tinkercad](https://www.tinkercad.com/things/bjqHOWaMdiu-cp1-edge)
-- Video - [Youtube](https://youtu.be/89x3Qweqdh8)
+- Video - [Youtube](https://www.youtube.com/watch?v=k6k47S6BDqs)
 
 
 
